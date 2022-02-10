@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DE2D48</color>
+    <color name="colorPrimaryDark">#DE2D48</color>
+    <color name="colorAccent">#DE2D48</color>
+    <color name="black">#000</color>
+    <color name="teal_700">#008080</color>
+    <color name="teal_200">#00796B</color>
+    <color name="purple_700">#7B1FA2</color>
+    <color name="purple_200">#B200FF</color>
+</resources>
